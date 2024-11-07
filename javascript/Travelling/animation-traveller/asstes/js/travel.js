@@ -41,6 +41,7 @@
 //         var current = document.getElementsByClassName("active"); 
 //         current[0].className = current[0].className.replace("active", "");
 //         this.className += "active";
+// codewithpiyu is activated t!Nudi more more
 //     });
 //  }
 
